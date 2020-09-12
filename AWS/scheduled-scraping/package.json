@@ -6,7 +6,7 @@
   "dependencies": {
     "lambda-local": "^1.6.3",
     "mongodb": "^3.3.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "request": "^2.81.0",
     "superagent": "^5.1.0"
   },
